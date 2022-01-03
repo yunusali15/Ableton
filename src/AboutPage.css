@@ -1,0 +1,84 @@
+.AboutPageMainContainer {
+}
+
+.image1 {
+    font-weight: 600;
+    font-size:130px;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    color: #fa6234;
+    display: flex;
+
+    margin: 10px 8.33vw 0 8.33vw;
+    min-width: calc(83.33vw);
+    background-image:url('./image1.jpg');
+    height: 85vh; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    justify-content: center;
+    align-items: center;
+}
+
+.Purple {
+    color:#0000ff;
+}
+
+.Content1-Header {
+    display: inline-block;
+    margin: 100px 24.33vw 0px 24.33vw;
+    text-overflow: clip;
+    font-weight: 600;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    font-size: 27px;
+    line-height: 40px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.Content1{
+    display: inline-block;
+    margin: 20px 24.33vw 100px 24.33vw;
+    text-overflow: clip;
+    font-weight: 400;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    font-size: 17px;
+    line-height: 28px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.Collage1 {
+    background-color: #FBFFA7;
+    width: 58.33vw;
+    height: 58.33vw;
+    margin-left: 41.6667vw;
+    display: inline-block;
+}
+
+.image2 {
+    display: inline-block;
+    background-image: url('./image2.jpg');
+    height: 41.67vw;
+    width: 41.67vw;
+    margin-left:-34vw;
+    position: relative;
+    top: 15vh;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.image3 {
+    background-image: url('./image3.jpg');
+    display: inline-block;
+    width: 33.33vw;
+    height:25vw;    
+    position: relative;
+    margin-left:8.33vw;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
