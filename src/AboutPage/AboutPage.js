@@ -3,6 +3,7 @@ import { useState } from 'react';
 import './AboutPage.css';
 import ReactPlayer from 'react-player/youtube';
 import {MdPlayCircleFilled} from 'react-icons/md'
+import Footer from '../Footer/Footer';
 
 export const AboutPage = () => {
 
@@ -84,7 +85,8 @@ export const AboutPage = () => {
                     <span className='teaser-Link'> See latest jobs  ></span>
                 </div>
             </div>
-            
+            <hr/>
+            <Footer />
         </div>
     )
 }

@@ -1,0 +1,88 @@
+.FooterContainer {
+    display: flex;
+    margin: 8.33vw 8.33vw 6.33vw 8.33vw;
+    font-family: 'Source Sans Pro','sans-serif';
+    flex-direction: column;
+}
+
+.FooterLinks {
+    margin-top: 5.33vw;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.FooterLinks ul{
+    list-style: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+}
+
+.FooterLinks li{
+    padding-top: 5px;
+}
+
+.FootersocialMedia {
+    margin-top: 10px;
+}
+
+.FooterRow {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 3.33vw;
+}
+
+.Footer-Block3 {
+    width: 40%;
+}
+
+.FooterSignUpForm {
+    width:100%;
+    height: 2vw;
+}
+
+.FooterSignUpForm input {
+    width: 60%;
+    padding: 0.75em 0.75em;
+    font-size: inherit;
+    border: 0;
+    background-color: #eee;
+    margin: 0;
+    margin-top: 1.5vw;
+}
+
+.FooterSignUpForm button{
+    width:30%;
+    padding: 0.75em 1.5em;
+    background-color: #0000ff;
+    color: #fff;
+    font-weight: 540;
+    border: 0;
+    font-size: inherit;
+    margin: 0;
+}
+
+.FooterLocationForm select{
+    margin-top: 1vw;
+    background-color: #eee;
+    border: 0;
+    font-size: 14px;
+    padding: 0.5em 0.5em;
+    font-weight: 520;
+}
+
+.LocationDropdown {
+    margin-left: 2px;
+    width: 40%;
+}
+
+.FooterEnd ul { 
+    display: inline-flex;
+    flex-direction: row;
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.FooterEnd li {
+    padding-right: 10px ;
+}
