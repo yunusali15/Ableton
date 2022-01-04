@@ -1,7 +1,6 @@
 import './App.css';
-import logo from './logo.png';
-import { Navbar } from './Navbar';
-import { AboutPage } from './AboutPage';
+import { Navbar } from './Navbar/Navbar';
+import { AboutPage } from './AboutPage/AboutPage';
 
 function App() {
   return (

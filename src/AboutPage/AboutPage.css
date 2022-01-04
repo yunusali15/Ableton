@@ -1,0 +1,251 @@
+.AboutPageMainContainer {
+}
+
+.image1 {
+    font-weight: 600;
+    font-size:130px;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    color: #fa6234;
+    display: flex;
+
+    margin: 10px 8.33vw 0 8.33vw;
+    min-width: calc(83.33vw);
+    background-image:url('../AboutPageImages/image1.jpg');
+    height: 85vh; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    justify-content: center;
+    align-items: center;
+}
+
+.Purple {
+    color:#0000ff;
+}
+
+.Content-Header {
+    display: inline-block;
+    margin: 100px 24.33vw 0px 24.33vw;
+    text-overflow: clip;
+    font-weight: 600;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    font-size: 27px;
+    line-height: 40px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.Content {
+    display: inline-block;
+    margin: 20px 24.33vw 100px 24.33vw;
+    text-overflow: clip;
+    font-weight: 400;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    font-size: 17px;
+    line-height: 28px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.Content-pt2{
+    display: inline-block;
+    margin: -80px 24.33vw 100px 24.33vw;
+    text-overflow: clip;
+    font-weight: 400;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    font-size: 17px;
+    line-height: 28px;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+    color: black;
+}
+
+.Collage1 {
+    background-color: #FBFFA7;
+    width: 58.33vw;
+    height: 58.33vw;
+    margin-left: 41.6667vw;
+    display: inline-block;
+}
+
+.Collage2-Background {
+    width: 58.33vw;
+    height: 75.33vw;
+    margin-right: 41.6667vw;
+    background-color: #B6FFC0;
+}
+
+.Collage2-Container {
+    display: flex;
+    margin-top: -67.33vw;
+    margin-bottom: 8.33vw;
+}
+
+.Collage2-wBack{
+    width: 58.33vw;
+    height: 75vw;
+    margin-right: 41.6667vw;
+    display: flex;
+    flex-direction: row;
+}
+
+.Collage3 {
+    background-color: #D5B3FF;
+    width: 66.67vw;
+    height: 58.33vw;
+    margin-left: 16.67vw;
+    display: flex;
+}
+
+.Collage4 {
+    background-color: #B1C5FF;
+    width: 83.33vw;
+    height: 41.67vw;
+    margin-left: 8.33vw;
+    margin-right: 8.33vw;
+    display: inline-flex;
+    margin-bottom: 8.33vw;
+}
+
+.image2 {
+    display: inline-block;
+    background-image: url('../AboutPageImages/image2.jpg');
+    height: 41.67vw;
+    width: 41.67vw;
+    margin-left:-34vw;
+    position: relative;
+    top: 15vh;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.image3 {
+    background-image: url('../AboutPageImages/image3.jpg');
+    display: inline-block;
+    width: 33.33vw;
+    height:25vw;    
+    position: relative;
+    margin-left:8.33vw;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.image5 {
+    background-image: url('../AboutPageImages/image5.jpg');
+    width: 33.33vw;
+    height:25vw;    
+    position: relative;
+    margin-left:8.33vw;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.image6 {
+    background-image: url('../AboutPageImages/image6.jpg');
+    width: 33.33vw;
+    height:25vw;    
+    margin-top: 8.33vw;
+    position: relative;
+    margin-left:8.33vw;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.image7 {
+    display: inline-block;
+    background-image: url('../AboutPageImages/image7.jpg');
+    height: 41.67vw;
+    width: 41.67vw;
+    margin-top: 8.33vw;
+    margin-left:8.33vw;
+    position: relative;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.image8 {
+    margin: 10px 8.33vw 0 8.33vw;
+    min-width: calc(83.33vw);
+    background-image:url('../AboutPageImages/image8.jpg');
+    height: 85vh; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.image9 {
+    display: inline-block;
+    background-image: url('../AboutPageImages/image9.jpg');
+    width: 33.33vw;
+    height:25vw;    
+    margin-left:-8.33vw;
+    margin-top: 16.67vw;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.image10 {
+    display: inline-block;
+    background-image: url('../AboutPageImages/image10.jpg');
+    height: 41.67vw;
+    width: 41.67vw;
+    top: 8.33vw;
+    position: relative;
+    margin-left: 16.67vw;
+    margin-right: -16.77vw;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.image11 {
+    background-image: url('../AboutPageImages/image11.jpg');
+    height: 41.67vw;
+    width: 41.67vw;
+    position: relative;
+  
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.teaser-Header {
+    width:30%;
+    font-family: 'Source Sans Pro','sans-serif'; 
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 510;
+    text-align: left;
+    justify-self: center;
+    padding: 8.33vw 8.33vw 0vw 9.33vw; 
+}
+
+.teaser-Link {
+    display: inline-block;
+    color: #0000ff;
+    margin-top: 30px;
+}
+
+.caption {
+    font-family: 'Source Sans Pro','sans-serif';
+    font-weight: 600;
+    margin: 0px 24.33vw 100px 24.33vw;
+}
+
+.thumbnailImage {
+    margin: 10px 24.33vw 0px 24.33vw;
+}
+
